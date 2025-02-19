@@ -20,7 +20,7 @@ git clone https://github.com/ha223dp/visbyadventure.git
 
 Navigate to the project folder:
 
-cd TuristSiteOfGotland
+cd visbyadventure
 
 Open index.html in your browser or run a local server.
 
