@@ -16,7 +16,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/ha223dp/TuristSiteOfGotland.git
+git clone https://github.com/ha223dp/visbyadventure.git
 
 Navigate to the project folder:
 
